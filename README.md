@@ -6,7 +6,7 @@ It is built with **HTML, CSS, and JavaScript** and hosted using **GitHub Pages**
 ---
 
 ## 🖼️ Preview
-![Portfolio Screenshot](./preview.png)
+![Portfolio Screenshot](./portfolio.png)
 
 ---
 
