@@ -6,7 +6,7 @@ It is built with **HTML, CSS, and JavaScript** and hosted using **GitHub Pages**
 ---
 
 ## 🔗 Live Demo
-👉 [View Portfolio](https://github.com/PratikshaRKutal/myPortfolio.git)
+👉 [View Portfolio](https://pratiksharkutal.github.io/myPortfolio/)
 
 ---
 
